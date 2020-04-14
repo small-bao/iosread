@@ -7,7 +7,7 @@ IOS爱阅书香书源设置等备份  Update:2020年4月14日
 https://github.com/small-bao/iosread
 ```
 
-### 爱阅书香坐着收集的其他书源仓库合集
+### 爱阅书香作者收集的其他书源仓库合集
 | 书源作者        | 地址   |
 | :--------  | :-----  |
 |相逢应不识|https://gitee.com/ift123/iFreeTimeBookConfigs|
