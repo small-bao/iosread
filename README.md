@@ -1,6 +1,11 @@
 # iosread
-IOS爱阅书香书源设置等备份
-update:2020年4月14日
+IOS爱阅书香书源设置等备份  Update:2020年4月14日
+
+在爱阅书香中同步本项目地址:
+
+```markup
+https://github.com/small-bao/iosread
+```
 
 ## 爱阅书香收集的书源仓库合集
 点击导入无反应的，请使用苹果手机自带的浏览器safari打开。
