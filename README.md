@@ -1,6 +1,6 @@
 # 爱阅书香自定义书源（Update:2020年4月14日）
 
-### 书源地址： **https://github.com/small-bao/iosread** ###
+### 项目已搬运到(订阅此地址即可)：**https://gitee.com/mxyseo/iosread** ###
 
 纯属于个人兴趣制作，如有失效、错误，请留言反馈，有时间会及时更新！<br/><br/>
 
@@ -8,7 +8,7 @@
 在爱阅书香中选择设置→书源管理→同步→填入项目地址（可输入多个地址）→获取书源配置：
 
 ```markup
-https://github.com/small-bao/iosread
+https://gitee.com/mxyseo/iosread
 ```
 ps：
 此方式能保存书源地址，后续需要更新时，只需要点击获取书源配置就可以了，推荐使用。<br/><br/>
