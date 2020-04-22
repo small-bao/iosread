@@ -14,16 +14,30 @@ https://gitee.com/mxyseo/iosread
 ps：
 此方式能保存书源地址，后续需要更新时，只需要点击获取书源配置就可以了，推荐使用。<br/><br/>
 
-### 其他书源仓库合集
-| 书源作者        | 地址   |
-| :--------  | :-----  |
-|相逢应不识|https://gitee.com/ift123/iFreeTimeBookConfigs|
-|wxdjs|https://gitee.com/wxdjs_sz/iFreeTimebookConfigs|
-|abc君|https://gitee.com/weiniff/ibooks|
-|wangyingbo|https://gitee.com/wangyingbo/iFreeTimeBookConfigs|
-|BlackTouma|https://gitee.com/BlackTouma/iFreeTimeBookConfigs|
-|纲吉|https://gitee.com/gangxiaoji/bookConfigs|
-|feifeiadmim|https://gitee.com/feifeiadmim/book_yuan|
-|mm0809|https://github.com/mm0809/BUUK|
-|曙光|https://gitee.com/shu_guang_a/love_reading_books|
-|zxhzxhz|https://zxhzxhz.tk/booksource/|
+### 优质书源
+| 书源名称   | 权重   | 更新时间|
+| :--------:  | :-----:  | :-----:  |
+|114中文网|	90|2020-4-22|
+|800小说网|	90|2020-4-22|
+|八一中文网|90	|2020-4-22|
+|大文学小说|90	|2020-4-22|
+|快快读书网|90	|2020-4-22|
+|手牵手小说|	90|2020-4-22|
+|新乐文小说|	90|2020-4-22|
+|新笔趣阁|90	|2020-4-22|
+|无错小说|	90|2020-4-22|
+|爱好中文网|	90|2020-4-22|
+|百合小说网|	90|2020-4-22|
+|笔趣阁|	90|2020-4-22|
+|起舞中文网|	90|2020-4-22|
+|追读小说|	90|2020-4-22|
+### 一般书源
+| 书源名称        | 权重   | 更新时间|
+| :--------:  | :-----:  | :-----:  |
+|蜜桃小说网|1	|2020-4-22|
+|一起看书吧|	1|2020-4-22|
+|黄易小说|1|2020-4-22|
+|4G小说|1	|2020-4-22|
+|大海中文网|	1|2020-4-22|
+|天眼|	1|2020-4-22|
+|少年文学网|1	|2020-4-22|
