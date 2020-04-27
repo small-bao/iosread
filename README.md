@@ -1,4 +1,4 @@
-# 爱阅书香自定义书源（Update:2020年4月24日）
+# 爱阅书香自定义书源（Update:2020年4月27日）
 
 ### 书源地址： **[https://gitee.com/mxyseo/iosread](ifreetime://configs/https://gitee.com/mxyseo/iosread)** ###
 
